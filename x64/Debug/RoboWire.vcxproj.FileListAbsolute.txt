@@ -1,0 +1,4 @@
+C:\Users\USER\Downloads\課題１(RoboWire)配布用\RoboWire\x64\Debug\RoboWire.exe
+C:\Users\USER\Downloads\課題１(RoboWire)配布用\RoboWire\x64\Debug\RoboWire.pdb
+D:\code\CG\robostl\課題１(RoboWire)完了\RoboWire\x64\Debug\RoboWire.exe
+D:\code\CG\robostl\課題１(RoboWire)完了\RoboWire\x64\Debug\RoboWire.pdb
